@@ -5,9 +5,9 @@
 
 I'm based in New York, and I have over 20 years experience working in various roles and industries.
 !!! info "Roles"
-    - Operations Support
-    - Software Development Engineering in Test
     - People Management
+    - Software Development Engineering in Test
+    - Operations Support
 
 !!! info "Industries"
     - :material-advertisements: **Adtech** (7 years)
