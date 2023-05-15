@@ -6,10 +6,10 @@ theme:
       logo: material/alpha-d-box
   features:
     - header.autohide
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.sections
-    - toc.integrate
     - navigation.top
+    # - toc.integrate
     - search.suggest
     - search.highlight
     - content.tabs.link
