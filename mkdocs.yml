@@ -7,8 +7,9 @@ theme:
   features:
     - header.autohide
     # - navigation.tabs
-    - navigation.sections
+    # - navigation.sections
     - navigation.top
+    - navigation.indexes
     # - toc.integrate
     - search.suggest
     - search.highlight
@@ -31,6 +32,24 @@ theme:
         name: Switch to light mode    
       primary: blue
       accent: lime
+
+# nav:
+#   - 'index.md'
+#   - Section:
+#     - 'projects/index.md'
+#     - 'Mkdocs Material': 'projects/mkdocs.md'
+#   - Section:
+#     - 'bio/index.md'
+#     - 'DIYer': 'bio/self-sufficient.md'
+
+nav:
+  - 'index.md'
+  - Projects:
+    - 'projects/index.md'
+    - Mkdocs Material: 'projects/mkdocs.md'
+  - About Me: 
+    - 'bio/index.md'
+    - 'DIYer': 'bio/self-sufficient.md'
 
 markdown_extensions:
   - attr_list

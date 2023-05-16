@@ -1,10 +1,8 @@
-![Profile Pic Light](./assets/images/linkedin-profile-pic-2.jpg){ width=200 align=right }
+![Profile Pic 1](./assets/images/linkedin-profile-pic-2.jpg){ width=200 align=right }
 
 # Hi, my name is Luis Delatorre
 
-I'm a Software Engineer based in New York, and I have over 20 years experience working in various roles and industries.  
-
-My most recent role was a QA Manger at Integral Ad Science (IAS), managing 8 test automation engineers working on various full-stack and backend projects within the company's Programmatic vertical.
+I'm a Software Engineer based in New York, with over 20 years experience working in various roles such as Operations Specialist, Software Development Engineering in Test, and Quality Assurance Manager. Proven expertise in the Fintech and AdTech industries, delivering high-quality software solutions and managing teams to achieve project success.
 
 
 ## Summary
