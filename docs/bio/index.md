@@ -1,5 +1,3 @@
-![DIY PC Build](../assets/images/upgrading-pc-diy.jpeg)
+![Profile Pic 2](../assets/images/profile-pic-2.jpg){ width=200 align=right }
 
 # About Me
-
-This section contains projects I researched and did it myself.

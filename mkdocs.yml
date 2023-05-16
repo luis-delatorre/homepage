@@ -33,25 +33,20 @@ theme:
       primary: blue
       accent: lime
 
-# nav:
-#   - 'index.md'
-#   - Section:
-#     - 'projects/index.md'
-#     - 'Mkdocs Material': 'projects/mkdocs.md'
-#   - Section:
-#     - 'bio/index.md'
-#     - 'DIYer': 'bio/self-sufficient.md'
-
 nav:
   - 'index.md'
   - Projects:
     - 'projects/index.md'
-    - Mkdocs Material: 'projects/mkdocs.md'
+    - Mkdocs Material: 'projects/mkdocs-material.md'
+    - Stock Checker: 'projects/stock-checker.md'
+    - Home Network: 'projects/home-network.md'
+    - Desktop Build: 'projects/desktop-build.md'
   - About Me: 
     - 'bio/index.md'
-    - 'DIYer': 'bio/self-sufficient.md'
+    
 
 markdown_extensions:
+  - tables
   - attr_list
   - md_in_html
   - admonition
