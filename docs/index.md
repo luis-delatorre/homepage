@@ -58,23 +58,25 @@ I'm a Software Engineer based in New York, with over 20 years experience working
 ??? success "Integral Ad Science (IAS), :fontawesome-solid-location-arrow: New York, NY"
     <div>
         <div style="float:left">**QA Manager**</div>
-        <div style="float:right">**:material-calendar-clock: Jul 2015 - Dec 2022**</div>
+        <div style="float:right">**:material-calendar-clock: Jul 2015 - Present**</div>
     </div>
     <div style="clear: both;"></div>
 
-    * Managed two teams, a total of eight automation test engineers operating in various time zones, assigned to multiple backend and web-based applications to carry out manual and automated testing activities.
-    * Responsible for 10 applications, consisting of Java-based Rest APIs and full-stack web-based reporting dashboards and self-service product management tools, running on on-prem and AWS cloud environments.
-    * Created an automated framework for Rest APIs, using tools such as Python, PyTest, Requests library, Aerospike python client, MySQL connector, and JSON functions to set test data, execute API calls, and validate response patterns.
-    * Created automated tests for testing web features using Python, PyTest, Selenium WebDriver, and MySQL connectors.
-    * Scheduled nightly runs for automated regression tests using Jenkins.
-    * Used observability tools such as Graphite & Grafana, and Kibana to monitor server performance and troubleshoot application and server errors.
-    * Performed code reviews for development and test automation pull requests across dozens of Git repositories.  Promoted proper test case coverage and encouraged shift left and testing pyramid principles.
-    * Conducted Epic reviews with development teams and stakeholders to report project progress and discuss risks for mitigation or acceptance.
-    * Worked with product to setup environments and test data for conducting UATs on client facing application changes.
-    * Mentored my teams via weekly 1-1 meetings, to discuss any roadblocks, document achievements and successes, review assignment progress and provide guidance towards their bi-annual SMART goals.
-    * Used tools such as TestRail, JIRA, and JellyFish to monitor team productivity and report on KPIs.
-    * Led sprint ceremonies such as scrum, sprint planning, backlog grooming, and sprint retrospectives.
-    * Participated on the panel of a monthly “QA Community of Practice” consisting of experts from different teams with the goal to share knowledge & best practices and define standards. Disseminated technical and workflow improvements across the department.
+    * Managed and led two teams comprising eight automation test engineers across different time zones, overseeing their activities in manual and automated testing for multiple backend and web-based applications.
+    * Oversaw a portfolio of 10 applications, encompassing Rest APIs, full-stack web-based reporting dashboards, and self-service product management tools deployed in on-prem and AWS cloud environments.
+    * Developed a scalable and robust automated framework for Rest APIs utilizing Python, PyTest, Requests library, Aerospike python client, MySQL connector, and JSON functions. This framework facilitated efficient test data setup, API call execution, and response pattern validation. Tests were automatically triggered on GitHub repository pushes, completing within an hour and enabling seamless merging on passing results.
+    * Implemented automated tests for web features using Python, PyTest, Selenium WebDriver, and MySQL connectors. This optimized testing efficiency by reducing the manual check time from 2 hours to 20 minutes.
+    * Scheduled nightly regression tests through Jenkins to ensure the stability of the testing suite against production code.
+    * Utilized Graphite, Grafana, and Kibana as observability tools to monitor server performance and troubleshoot application and server errors.
+    * Conducted code reviews for development and test automation pull requests across numerous GitHub repositories, emphasizing proper test case coverage and advocating for shift-left and testing pyramid principles. This fostered increased test case creation by developers and application design with testing in mind.
+    * Conducted Epic reviews with development teams and stakeholders to provide project progress reports and discuss risks for mitigation or acceptance.
+    * Collaborated with the product team to set up environments and test data for conducting User Acceptance Testing (UAT) on client-facing application changes.
+    * Mentored team members through regular one-on-one meetings, addressing roadblocks, documenting achievements, reviewing assignment progress, and providing guidance toward their bi-annual SMART goals. This facilitated data-driven mid-year and end-year performance reviews.
+    * Utilized TestRail, JIRA, and JellyFish tools to monitor team productivity and report on Key Performance Indicators (KPIs) to stakeholders.
+    * Led various sprint ceremonies, including scrum, sprint planning, backlog grooming, and sprint retrospectives.
+    * Participated as a panelist in a monthly "QA Community of Practice" involving experts from different teams, aiming to share knowledge, exchange best practices, and define standards. Effectively disseminated technical and workflow improvements across the department.
+
+
 
 
 ??? success "GFI Group (currently a division of BGC Partners), :fontawesome-solid-location-arrow: New York, NY"

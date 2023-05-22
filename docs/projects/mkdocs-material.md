@@ -1,6 +1,6 @@
 # Mkdocs Material Website
 
-![Mkdocs Material](../assets/mkdocs-material/mkdoc-material-device-examples.png)
+![Mkdocs Material](../assets/projects/mkdocs-material/mkdoc-material-device-examples.png)
 
 ## What is Mkdocs Material?
 

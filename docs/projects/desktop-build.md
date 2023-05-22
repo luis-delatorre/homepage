@@ -3,13 +3,13 @@
 I've always wanted to build my own Windows desktop, and being stuck at home during the pandemic gave me the perfect opportunity to finally do it.
 
 * After a bunch of research, I settled on a price range and configuration, and gathered all the parts I needed from Newegg, Micro Center, and Amazon. 
-![Parts](../assets/desktop-build/windows_desktop_build_1.jpg){ width=400 }
+![Parts](../assets/projects/desktop-build/windows_desktop_build_1.jpg){ width=400 }
 
 * Once I had everything, I spent a whole day reading tutorials and watching [tech YouTubers](https://www.youtube.com/watch?v=i5jFXl0GZJo) to figure out how to build my machine.  
-![Tutorial](../assets/desktop-build/windows_desktop_build_2.jpg){ width=400 }
+![Tutorial](../assets/projects/desktop-build/windows_desktop_build_2.jpg){ width=400 }
 
 * When I finally finished the build, it was such a cool moment to see the lights come on for the first time. I'll never forget that feeling of joy.  
-![Startup](../assets/desktop-build/windows_desktop_build_3.jpg){ width=400 }
+![Startup](../assets/projects/desktop-build/windows_desktop_build_3.jpg){ width=400 }
 
 * I also found this awesome software called [Symless Synergy](https://symless.com/synergy) that lets me use my desktop's keyboard and mouse to control both my Windows desktop and my Macbook. It also supports clipboard sharing, which is super convenient.
 

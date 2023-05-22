@@ -43,6 +43,7 @@ nav:
     - Desktop Build: 'projects/desktop-build.md'
   - About Me: 
     - 'bio/index.md'
+    - Volunteer Work: 'bio/volunteer-service.md'
     
 
 markdown_extensions:

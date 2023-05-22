@@ -1,6 +1,6 @@
 # Home Network
 
-![Home Network](../assets/home-network/asus-rt-n66u-router.jpg)
+![Home Network](../assets/projects/home-network/asus-rt-n66u-router.jpg)
 
 When we first moved in, boosting the WiFi signal in our home became a priority when we discovered its weakness on the side opposite where the previous homeowners installed the modem and router. After doing some research, I repurposed an old Asus RT-N66U router that I was no longer using, into a Wireless Access Point, effectively extending the reach of our WiFi throughout the house.
 

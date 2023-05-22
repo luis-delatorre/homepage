@@ -1,6 +1,6 @@
 # Stock Checker
 
-![Mkdocs Material](../assets/stock-checker/stock-prices.jpeg)
+![Mkdocs Material](../assets/projects/stock-checker/stock-prices.jpeg)
 
 
 ## What is StockChecker?
