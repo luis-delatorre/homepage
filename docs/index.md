@@ -66,12 +66,12 @@ I'm a Software Engineer based in New York, with over 20 years experience working
 
     * Managed 2 teams comprising 8 automation test engineers across 3 different time zones, and 3 countries, overseeing their activities in manual and automated testing for multiple backend and web-based applications. 
     * Oversaw a portfolio of 10 applications, encompassing Rest APIs, full-stack web-based reporting dashboards, and self-service product management tools deployed in on-prem and AWS cloud environments.
-    * Developed a scalable and robust automated framework for Rest APIs utilizing Python, PyTest, Requests library, Aerospike python client, MySQL connector, and JSON functions. **The framework facilitated efficient test data setup, API call execution, response validation, event log accuracy, and was automatically triggered on GitHub repository pushes.  This increased test case coverage by 133% and enabled seamless merging on passing results.**
+    * Created a highly scalable and reliable automated framework in Python, leveraging PyTest, Requests library, Aerospike python client, MySQL connector, and JSON functions, specifically designed for Rest APIs. This framework streamlined various tasks including efficient test data setup, execution of API calls, validation of responses, accuracy of event logs, and automatic triggering upon pushes to the GitHub repository. **As a result, test case coverage increased by 133%, enabling smooth merging of code upon successful results.**
     * Implemented automated tests for web features using Python, PyTest, Selenium WebDriver, and MySQL connectors, **optimizing testing efficiency by 84%.**
     * Scheduled nightly regression tests through Jenkins to ensure the stability of the testing suite against production code.
     * Utilized Graphite, Grafana, and Kibana as observability tools to monitor server performance and troubleshoot application and server errors.
-    * Conducted code reviews for development and test automation pull requests across numerous GitHub repositories, emphasizing proper test case coverage and advocating for shift-left and testing pyramid principles. **This resulted in a 125% increase in overall test coverage.**
-    * Hosted Epic reviews with development teams and stakeholders to provide project progress reports and discuss risks for mitigation or acceptance.
+    * Performed comprehensive code reviews for development and test automation pull requests across multiple GitHub repositories, prioritizing extensive test case coverage and promoting the adoption of shift-left and testing pyramid principles. **As a result, the overall test coverage experienced a significant boost of 125%.**
+    * Hosted Epic reviews with development teams and stakeholders to provide project progress reports and discuss risks for mitigation or acceptance. 
     * Collaborated with the product team to set up environments and test data for conducting User Acceptance Testing (UAT) on client-facing application changes.
     * Mentored team members through regular one-on-one meetings, addressing roadblocks, documenting achievements, reviewing assignment progress, and providing guidance toward their bi-annual SMART goals. **This facilitated data-driven mid-year and end-year performance reviews and improved employee satisfaction by 85%.**
     * Utilized TestRail, JIRA, and JellyFish tools to monitor team productivity and report on Key Performance Indicators (KPIs) to stakeholders, such as test coverage, defect detection rate, test cycle time, sprint accuracy, and production deployment rate. 
@@ -104,7 +104,7 @@ I'm a Software Engineer based in New York, with over 20 years experience working
         <div style="float:right">**:material-calendar-clock: Aug 2000 - Aug 2006**</div>
     </div>
     <div style="clear: both;"></div>
-    
+
     _SIAC is a subsidiary of the New York Stock Exchange (NYSE) and the American Stock Exchange (AMEX), offering technical services and infrastructure to exchanges, members, and financial institutions._
 
     * Orchestrated IT Datacenter activities for first-shift staff responsible for monitoring, troubleshooting, and reporting online incidents and coordinated end-of-day and morning-after tasks for the second and third-shift teams.
