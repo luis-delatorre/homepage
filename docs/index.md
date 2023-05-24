@@ -57,24 +57,27 @@ I'm a Software Engineer based in New York, with over 20 years experience working
 
 ??? success "Integral Ad Science (IAS), :fontawesome-solid-location-arrow: New York, NY"
     <div>
-        <div style="float:left">**QA Manager**</div>
+        <div style="float:left">**Quality Assurance Manager**</div>
         <div style="float:right">**:material-calendar-clock: Jul 2015 - Present**</div>
     </div>
     <div style="clear: both;"></div>
+    
+    _IAS is an AdTech company and global leader in digital media quality, ensuring that ads are viewable by real people in safe and suitable environments, with annual revenue of more than $100 million._
 
-    * Managed and led two teams comprising eight automation test engineers across different time zones, overseeing their activities in manual and automated testing for multiple backend and web-based applications.
+    * Managed 2 teams comprising 8 automation test engineers across 3 different time zones, and 3 countries, overseeing their activities in manual and automated testing for multiple backend and web-based applications. 
     * Oversaw a portfolio of 10 applications, encompassing Rest APIs, full-stack web-based reporting dashboards, and self-service product management tools deployed in on-prem and AWS cloud environments.
-    * Developed a scalable and robust automated framework for Rest APIs utilizing Python, PyTest, Requests library, Aerospike python client, MySQL connector, and JSON functions. This framework facilitated efficient test data setup, API call execution, and response pattern validation. Tests were automatically triggered on GitHub repository pushes, completing within an hour and enabling seamless merging on passing results.
-    * Implemented automated tests for web features using Python, PyTest, Selenium WebDriver, and MySQL connectors. This optimized testing efficiency by reducing the manual check time from 2 hours to 20 minutes.
+    * Developed a scalable and robust automated framework for Rest APIs utilizing Python, PyTest, Requests library, Aerospike python client, MySQL connector, and JSON functions. **The framework facilitated efficient test data setup, API call execution, response validation, event log accuracy, and was automatically triggered on GitHub repository pushes.  This increased test case coverage by 133% and enabled seamless merging on passing results.**
+    * Implemented automated tests for web features using Python, PyTest, Selenium WebDriver, and MySQL connectors, **optimizing testing efficiency by 84%.**
     * Scheduled nightly regression tests through Jenkins to ensure the stability of the testing suite against production code.
     * Utilized Graphite, Grafana, and Kibana as observability tools to monitor server performance and troubleshoot application and server errors.
-    * Conducted code reviews for development and test automation pull requests across numerous GitHub repositories, emphasizing proper test case coverage and advocating for shift-left and testing pyramid principles. This fostered increased test case creation by developers and application design with testing in mind.
-    * Conducted Epic reviews with development teams and stakeholders to provide project progress reports and discuss risks for mitigation or acceptance.
+    * Conducted code reviews for development and test automation pull requests across numerous GitHub repositories, emphasizing proper test case coverage and advocating for shift-left and testing pyramid principles. **This resulted in a 125% increase in overall test coverage.**
+    * Hosted Epic reviews with development teams and stakeholders to provide project progress reports and discuss risks for mitigation or acceptance.
     * Collaborated with the product team to set up environments and test data for conducting User Acceptance Testing (UAT) on client-facing application changes.
-    * Mentored team members through regular one-on-one meetings, addressing roadblocks, documenting achievements, reviewing assignment progress, and providing guidance toward their bi-annual SMART goals. This facilitated data-driven mid-year and end-year performance reviews.
-    * Utilized TestRail, JIRA, and JellyFish tools to monitor team productivity and report on Key Performance Indicators (KPIs) to stakeholders.
+    * Mentored team members through regular one-on-one meetings, addressing roadblocks, documenting achievements, reviewing assignment progress, and providing guidance toward their bi-annual SMART goals. **This facilitated data-driven mid-year and end-year performance reviews and improved employee satisfaction by 85%.**
+    * Utilized TestRail, JIRA, and JellyFish tools to monitor team productivity and report on Key Performance Indicators (KPIs) to stakeholders, such as test coverage, defect detection rate, test cycle time, sprint accuracy, and production deployment rate. 
     * Led various sprint ceremonies, including scrum, sprint planning, backlog grooming, and sprint retrospectives.
     * Participated as a panelist in a monthly "QA Community of Practice" involving experts from different teams, aiming to share knowledge, exchange best practices, and define standards. Effectively disseminated technical and workflow improvements across the department.
+
 
 
 
@@ -85,6 +88,8 @@ I'm a Software Engineer based in New York, with over 20 years experience working
         <div style="float:right">**:material-calendar-clock: Aug 2006 - Jul 2015**</div>
     </div>
     <div style="clear: both;"></div>
+
+    _GFI provides brokerage services, trade execution, market data, and trading platforms for institutional clients in markets for a range of fixed-income, interest rates, foreign exchange, equities, and energy and commodities instruments._
 
     * Supported over 20 Linux and Windows-based applications, including real-time data feeds, web-based analytical tools, indicative pricing systems, market data reports, and third-party middleware platforms, processing data from global markets operating in different time zones.
     * Led a team of 6 manual and automation QA engineers in regression testing various proprietary financial applications that processed Credit Default Swaps, Bonds, Foreign Exchange, and Exotic market data.
@@ -99,6 +104,8 @@ I'm a Software Engineer based in New York, with over 20 years experience working
         <div style="float:right">**:material-calendar-clock: Aug 2000 - Aug 2006**</div>
     </div>
     <div style="clear: both;"></div>
+    
+    _SIAC is a subsidiary of the New York Stock Exchange (NYSE) and the American Stock Exchange (AMEX), offering technical services and infrastructure to exchanges, members, and financial institutions._
 
     * Orchestrated IT Datacenter activities for first-shift staff responsible for monitoring, troubleshooting, and reporting online incidents and coordinated end-of-day and morning-after tasks for the second and third-shift teams.
     * Reviewed and analyzed incidents from the point of occurrence, root cause, and solutions, utilizing Remedy data to highlight ongoing issues.
