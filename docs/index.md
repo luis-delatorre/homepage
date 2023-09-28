@@ -57,7 +57,7 @@ I'm a Software Engineer based in New York, with over 20 years experience working
 
 ??? success "Integral Ad Science (IAS), :fontawesome-solid-location-arrow: New York, NY"
     <div>
-        <div style="float:left">**Quality Assurance Manager**</div>
+        <div style="float:left">**Sr. Quality Assurance Manager**</div>
         <div style="float:right">**:material-calendar-clock: Jul 2015 - Present**</div>
     </div>
     <div style="clear: both;"></div>
@@ -70,6 +70,7 @@ I'm a Software Engineer based in New York, with over 20 years experience working
     * Implemented automated tests for web features using Python, PyTest, Selenium WebDriver, and MySQL connectors, **optimizing testing efficiency by 84%.**
     * Scheduled nightly regression tests through Jenkins to ensure the stability of the testing suite against production code.
     * Utilized Graphite, Grafana, and Kibana as observability tools to monitor server performance and troubleshoot application and server errors.
+    * Used JIRA for defect tracking, coordinating assignments to Dev/QA teams, and generating incident reports to stakeholders. 
     * Performed comprehensive code reviews for development and test automation pull requests across multiple GitHub repositories, prioritizing extensive test case coverage and promoting the adoption of shift-left and testing pyramid principles. **As a result, the overall test coverage experienced a significant boost of 125%.**
     * Hosted Epic reviews with development teams and stakeholders to provide project progress reports and discuss risks for mitigation or acceptance. 
     * Collaborated with the product team to set up environments and test data for conducting User Acceptance Testing (UAT) on client-facing application changes.
@@ -77,9 +78,6 @@ I'm a Software Engineer based in New York, with over 20 years experience working
     * Utilized TestRail, JIRA, and JellyFish tools to monitor team productivity and report on Key Performance Indicators (KPIs) to stakeholders, such as test coverage, defect detection rate, test cycle time, sprint accuracy, and production deployment rate. 
     * Led various sprint ceremonies, including scrum, sprint planning, backlog grooming, and sprint retrospectives.
     * Participated as a panelist in a monthly "QA Community of Practice" involving experts from different teams, aiming to share knowledge, exchange best practices, and define standards. Effectively disseminated technical and workflow improvements across the department.
-
-
-
 
 
 ??? success "GFI Group (currently a division of BGC Partners), :fontawesome-solid-location-arrow: New York, NY"
